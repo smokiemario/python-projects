@@ -1,7 +1,7 @@
 import random
 import time
 
-answers = ['yes','no','maybe','most likely','probably not']
+answers = ['yes','no','maybe','most likely','probably not','try again']
 
 while True:
     q = input("What is your question").lower().strip()
